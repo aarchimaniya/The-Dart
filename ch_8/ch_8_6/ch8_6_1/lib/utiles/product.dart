@@ -1,9 +1,17 @@
 import 'package:flutter/material.dart';
 
-List<String> Product = [
-  "https://121clicks.com/wp-content/uploads/2021/07/nature_environment_01.jpg",
-  "https://t4.ftcdn.net/jpg/00/75/78/17/360_F_75781711_B2iyzvKB8qdigN3UMtpyl3l1LmfsQMsR.jpg",
-  "https://st2.depositphotos.com/2977159/7789/i/450/depositphotos_77893856-stock-photo-hands-nurturing-and-watering-young.jpg",
-  "https://us.123rf.com/450wm/morele/morele1803/morele180300027/97927308-a-small-green-sprout-in-the-hand-with-earth.jpg?ver=6",
-  "https://us.123rf.com/450wm/gelpi/gelpi2303/gelpi230301431/199897390-earth-s-day-view-of-a-sprout-growing-in-the-soil-generative-ai.jpg?ver=6",
+List Product = [
+  "https://wallpapers.com/images/hd/nature-landscape-hd-usqznq19dscdjkf8.jpg",
+  "https://wallpapers-hub.art/wallpaper-images/11682.jpg",
+  "https://t3.ftcdn.net/jpg/05/47/76/94/360_F_547769482_sKqPdN0tSmfRHZTA6s6OvGsDzJbU9WPQ.jpg",
+  "https://cache.desktopnexus.com/thumbseg/742/742190-bigthumbnail.jpg",
+  "https://t4.ftcdn.net/jpg/05/21/22/53/360_F_521225307_reMVJcTBuXkMskVvy98jVCWHOPDaJRX3.jpg",
+];
+
+List product = [
+  "https://images.all-free-download.com/images/graphiclarge/flower_nature_close_up_view_yellow_240308.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/a/a5/Red_Kitten_01.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lion_d%27Afrique.jpg/1879px-Lion_d%27Afrique.jpg",
+  "https://upload.wikimedia.org/wikipedia/commons/2/2a/Junonia_lemonias_DSF_upper_by_Kadavoor.JPG",
+  "https://images.all-free-download.com/images/graphiclarge/white_daisy_514101.jpg",
 ];
