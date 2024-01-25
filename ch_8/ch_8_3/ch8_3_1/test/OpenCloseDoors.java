@@ -41,6 +41,7 @@ class _OpenCloseDoorsState extends State<OpenCloseDoors> {
                 if (x < 80) {
                   x += 20;
                 }
+
               });
             },
             child: Container(
